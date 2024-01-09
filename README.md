@@ -3,7 +3,8 @@
   World Wise is a react-based user-friendly web application, designed to help avid travelers keep a record of the cities they have visited. The app provides an intuitive interface to mark and visualize the cities on a map, creating a personalized travel note that can remind the traveler what happened when they travel there.
   <hr/>
 
-![World Wise](https://github.com/krisnacp/World Wise_JS/assets/73422884/28280e73-3667-4f28-8dee-2c70c4e1d66b)
+![homeWW](https://github.com/krisnacp/worldWise/assets/73422884/94ac69f5-2773-4d08-b370-ccf120ed5056)
+![mainWW](https://github.com/krisnacp/worldWise/assets/73422884/20440f1a-7147-4a95-ab22-932c5c52a5c4)
 
 <hr/>
 
@@ -11,6 +12,7 @@
 
 -   Interactive Map: integrates with a powerful map API, offering an interactive and dynamic map interface. Users can explore the world map, zoom in on regions, and view city information.
 -   Mark Visited Cities: Users can easily mark cities they have visited by clicking on the map
+-   Fake Login: Fake login schema to protect some route from illegal access
 
 <hr/>
 
